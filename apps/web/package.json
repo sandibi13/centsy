@@ -12,6 +12,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@centsy/ui": "workspace:*",
     "geist": "catalog:",
     "lucide-react": "catalog:",
     "next": "15.4.1",
@@ -22,7 +23,6 @@
   "devDependencies": {
     "@centsy/eslint-config": "workspace:*",
     "@centsy/typescript-config": "workspace:*",
-    "@centsy/ui": "workspace:*",
     "@tailwindcss/postcss": "4.1.11",
     "@types/node": "24.0.10",
     "@types/react": "catalog:",
