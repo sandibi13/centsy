@@ -12,6 +12,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@centsy/env": "workspace:*",
     "@centsy/ui": "workspace:*",
     "geist": "catalog:",
     "lucide-react": "catalog:",
